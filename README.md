@@ -18,16 +18,6 @@
 
 ---
 
-### 📬 Connect with me
-
-<p align="left">
-  <a href="mailto:irfanazkasyamil467@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
 ### 🛠️ Languages and Tools
 
 <p align="left"> 
@@ -48,10 +38,40 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Contributions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=irfanazkasyamil&show_icons=true&locale=en&theme=radical" alt="irfanazkasyamil's stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanazkasyamil&show_icons=true&locale=en&layout=compact&theme=radical" alt="irfanazkasyamil's top languages" height="150" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IrfanAzkaSyamil/IrfanAzkaSyamil/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IrfanAzkaSyamil/IrfanAzkaSyamil/pacman-output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IrfanAzkaSyamil/IrfanAzkaSyamil/pacman-output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IrfanAzkaSyamil/IrfanAzkaSyamil/snake-output/snake.svg" alt="Snake animation" width="100%" />
+</p>
+
+---
+
+### 📬 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/irfanazkasyamil" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://x.com/irfanazkasyamil" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+  </a>
+  <a href="https://www.instagram.com/itsme4zka_?igsh=MXIwdzU0bnN0c290aw==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+  <a href="mailto:irfanazkasyamil467@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+</p>
