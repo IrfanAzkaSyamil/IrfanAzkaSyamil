@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋 Irfan Azka Syamil</h1>
 <h3 align="center">Hello everyone, my name is Irfan Azka Syamil. I am a student at SMKN 1 JAKARTA, majoring in SIJA (Information Systems, Networks, and Applications). Nice to meet you all.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanazkasyamil&label=Profile%20views&color=0e75b6&style=flat" alt="irfanazkasyamil" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfanazkasyamil" alt="irfanazkasyamil" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - Hi, thiss is my first game project [BlockBlast](https://game-pak-muji.vercel.app/)
 
@@ -27,6 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanazkasyamil&show_icons=true&locale=en&layout=compact" alt="irfanazkasyamil" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irfanazkasyamil&show_icons=true&locale=en" alt="irfanazkasyamil" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanazkasyamil&" alt="irfanazkasyamil" /></p>
 
