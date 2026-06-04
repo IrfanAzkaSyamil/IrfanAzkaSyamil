@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋 Irfan Azka Syamil</h1>
 <h3 align="center">Hello everyone, my name is Irfan Azka Syamil. I am a student at SMKN 1 JAKARTA, majoring in SIJA (Information Systems, Networks, and Applications). Nice to meet you all.</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=irfanazkasyamil&theme=radical&column=7" alt="irfanazkasyamil" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -34,27 +28,6 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irfanazkasyamil&show_icons=true&locale=en&theme=radical" alt="irfanazkasyamil's stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanazkasyamil&show_icons=true&locale=en&layout=compact&theme=radical" alt="irfanazkasyamil's top languages" height="150" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IrfanAzkaSyamil/IrfanAzkaSyamil/pacman-output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IrfanAzkaSyamil/IrfanAzkaSyamil/pacman-output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IrfanAzkaSyamil/IrfanAzkaSyamil/pacman-output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/IrfanAzkaSyamil/IrfanAzkaSyamil/snake-output/snake.svg" alt="Snake animation" width="100%" />
 </p>
 
 ---
