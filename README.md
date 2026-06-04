@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfanazkasyamil" alt="irfanazkasyamil" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/irfanazkasyamil" target="blank"><img src="https://img.shields.io/twitter/follow/irfanazkasyamil?logo=twitter&style=for-the-badge" alt="irfanazkasyamil" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - Hi, thiss is my first game project [BlockBlast](https://game-pak-muji.vercel.app/)
 
@@ -19,9 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/irfanazkasyamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irfanazkasyamil" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/itsme4zka_?igsh=mxiwdzu0bnn0c290aw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itsme4zka_?igsh=mxiwdzu0bnn0c290aw==" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/irfanazka_syamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="irfanazka_syamil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
